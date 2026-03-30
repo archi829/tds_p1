@@ -1,0 +1,6 @@
+{
+  "prompt": "Generate an image: Wide-angle photograph of a football training drill at golden hour. A squad of 15 players is visible, but exactly 5 positions in the drill formation are conspicuously empty — marked only by orange cones. The empty slots are scattered randomly throughout the formation, not clustered together. The players who are present are visibly stretching to cover the gaps left by absent teammates, each working independently, unable to rely on anyone in the empty spots. A coaching board on the sideline shows a full 15-player formation — making the random absences deliberate and structured, not accidental. Documentary sports photography. Natural warm light, shallow depth of field. No diagrams, no graphs, no text, no labels, no mathematical notation, no equations, no floating annotations, no non-physical elements. Everything in the scene must be a physical object that could exist in the real world."
+  "model": "DALL-E 3 via OpenAI ChatGPT Plus",
+  "concept": "dropout",
+  "metaphor": "Team drills with random players absent each session. No player relies on specific teammates; all cover gaps. Full team on match day is stronger for it."
+}
