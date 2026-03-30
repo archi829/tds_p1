@@ -1,0 +1,7 @@
+{
+  "prompt": "Wide-angle editorial illustration. A vast wooden banquet table stretches across the entire frame. On the far left, ninety-nine gaunt figures are crammed tightly together, all sharing a single small plate of food barely visible in the centre of their cluster. Their side of the table is bare, cold, and shadowed in deep blue-grey light. Their clothing is worn and muted. On the far right, a single well-dressed figure sits alone, surrounded by a towering mountain of food — roasted meats, overflowing bowls, tall cakes — that occupies more than half the table and spills toward the edge. The right side is bathed in warm golden amber light. The contrast between the two sides is stark and immediate. No people's faces are clearly visible. Viewed from a slight elevated angle looking down the length of the table. Photorealistic. Mood: moral weight, quiet injustice, imbalance made visceral. Color palette: deep cold blue-grey on the left, rich warm amber and gold on the right, the boundary sharp and unambiguous. No text, no labels, no numbers, no chart elements, no legends, no axes, no words visible anywhere in the image.",
+  "model": "DALL-E 3 via OpenAI (ChatGPT Plus)",
+  "dataset_name": "World Inequality Database",
+  "dataset_url": "https://wid.world/data/",
+  "insight": "The richest 1% of humanity owns more wealth than the bottom 99% combined — a gap wider today than at any point in recorded history."
+}
